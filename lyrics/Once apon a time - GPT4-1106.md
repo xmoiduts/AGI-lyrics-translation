@@ -1,9 +1,8 @@
 ---
-![image](https://github.com/xmoiduts/AGI-lyrics-translation/assets/16047865/1f775275-23d1-433c-be1d-fcf7ec4e44c6)---
-Model: GPT4-1106
+Model: GPT4-Turbo-1106
 SEO: Once apon a time - まめこ 歌词 lyrics
 歌名: 从前
-原歌词: 略
+原歌词作者: 略
 备注: 歌名没有打错
 ---
 
