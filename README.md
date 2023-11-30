@@ -3,6 +3,8 @@ Translate Lyrics with the power of GenAI.
 
 全机翻，感谢GPT4-Turbo，有时也是3.5-Turbo。
 
+Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https://slickgpt.vercel.app/)
+
 -萌-物-修-复-
 ======
 
@@ -10,7 +12,7 @@ Translate Lyrics with the power of GenAI.
 
 我这个听众与作者之间，似乎永远隔着一层朦朦胧胧的障壁。
 
-它们都是冷门曲目，如果没人不做点什么，随着歌手的逐渐老化退出，这些歌曲也会而埋没在历史的长河中。
+它们都是冷门曲目，如果没人做点什么，随着歌手的逐渐老化退出，这些歌曲也会而埋没在历史的长河中。
 
 然而，GenAI之LLM技术的出现，使得高流畅度地翻译歌词便成了可能。
 
