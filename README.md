@@ -12,15 +12,21 @@ Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https:/
 
 我这个听众与作者之间，似乎永远隔着一层朦朦胧胧的障壁。
 
-它们都是冷门曲目，如果没人做点什么，随着歌手的逐渐老化退出，这些歌曲也会而埋没在历史的长河中。
+它们都是些冷门曲目，如果没人做点什么，随着歌手的逐渐老化退出，这些歌曲也会而埋没在历史的长河中。
 
 然而，GenAI之LLM技术的出现，使得高流畅度地翻译歌词便成了可能。
 
-让我来带着修复残损“文物”的心态机翻，以期后人再被推到这些萌曲时，能够体会到歌姬当时想传达的，更深的悸动。
+带着修复斑驳“文物”的心态机翻，以期后人再被推到这些萌曲时，能够体会到歌姬当时想传达的，更深的悸动。
 
 选曲范围：
 ------
-以[ななひら](https://twitter.com/nanahira)和[まめこ](https://twitter.com/munimuni_mameko)（已隐退）的歌曲为主。
+
+以[ななひら](https://twitter.com/nanahira)为圆心，扩展到合作者的歌曲。
+
+### 1度关联：
+- [まめこ](https://twitter.com/munimuni_mameko)（已隐退）
+- [桃箱](https://twitter.com/momobakobako)（as `桃箱`，已隐退）
+- [小紺ココ](https://twitter.com/KokoroNet)（自述身心状态欠佳，间歇性活动）
 
 主要选取发布一个月以上的老歌（特别喜欢的歌另算）。
 
