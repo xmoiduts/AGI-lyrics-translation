@@ -27,6 +27,7 @@ Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https:/
 - [まめこ](https://twitter.com/munimuni_mameko)（已隐退）
 - [桃箱](https://twitter.com/momobakobako)（as `桃箱`，已隐退）
 - [小紺ココ](https://twitter.com/KokoroNet)（自述身心状态欠佳，间歇性活动）
+- [塚越雄一朗](https://twitter.com/Tsukagoshi) (经常为ななひら和她合作唱见的作品作词作曲，而且很抓耳)
 
 主要选取发布一个月以上的老歌（特别喜欢的歌另算）。
 
