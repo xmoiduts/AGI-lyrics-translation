@@ -3,7 +3,7 @@ Translate Lyrics with the power of GenAI.
 
 全机翻，感谢GPT4-Turbo，有时也是3.5-Turbo。
 
-Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https://slickgpt.vercel.app/)
+Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https://github.com/ShipBit/slickgpt)
 
 -萌-物-修-复-
 ======
@@ -38,18 +38,19 @@ Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https:/
 1. 生成初版翻译
 2. 问AI：“这首歌讲了什么？”
 3. 追问每个不通顺的地方，如何理解这句，是否有更好的翻译
-4. 人工调整语序。
+4. optional: 根据歌词音节位置和GPT给出来的翻译，重新写一遍歌词。
+5. 人工调整语序。
 
 翻译成本：
 ------
-### API 调用费
+### API 调用费 | API cost
 以GPT4-Turbo-1106的价格计算：
 
 短歌约 8RMB 【示例：once apon a time】
 
 长歌约 20RMB 【示例： 一对半的狂想曲】
 
-### GPT提示员人工费
+### GPT提示员人工费 | GPT prompt personnel cost
 略
 
 > 备注：算这个钱的话不如找人工翻译员了，一小时几百块地烧。
