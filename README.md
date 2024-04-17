@@ -1,9 +1,11 @@
 # GenAI-lyrics-translation
 Translate Lyrics with the power of GenAI.
 
-全机翻，感谢GPT4-Turbo，有时也是3.5-Turbo。
+全机翻，目前引入包含OpenAI和Claude在内的多种模型。
 
-Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https://github.com/ShipBit/slickgpt)
+Special thanks to:  
+[SlickGPT](https://slickgpt.vercel.app/) | [On Github](https://github.com/ShipBit/slickgpt)  
+Relay API across AI platforms [one-api](https://github.com/songquanpeng/one-api)
 
 -萌-物-修-复-
 ======
@@ -24,10 +26,19 @@ Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https:/
 以[ななひら](https://twitter.com/nanahira)为圆心，扩展到合作者的歌曲。
 
 ### 1度关联：
-- [まめこ](https://twitter.com/munimuni_mameko)（已隐退）
+- [まめこ](https://twitter.com/munimuni_mameko)（as `まめこ`，已隐退）
 - [桃箱](https://twitter.com/momobakobako)（as `桃箱`，已隐退）
 - [小紺ココ](https://twitter.com/KokoroNet)（自述身心状态欠佳，间歇性活动）
+
+### 2度关联：
 - [塚越雄一朗](https://twitter.com/Tsukagoshi) (经常为ななひら和她合作唱见的作品作词作曲，而且很抓耳)
+- [A_than_lily](https://twitter.com/AthanLily) (同上)
+- [かそかそ](https://twitter.com/kasokaso1234) (同上)
+
+排除范围：
+------
+- 暗黑哥特风 （常见于まめこ、[葉月ゆら](https://twitter.com/yura_hatuki)的部分歌曲）。
+    - 理由：歌词内容可能会十分晦涩，且常常夹带着巨大的世界观，横跨多首歌曲或多张专辑。这种内容超出了Gen AI和我的理解能力。
 
 主要选取发布一个月以上的老歌（特别喜欢的歌另算）。
 
@@ -53,4 +64,4 @@ Special thanks to [SlickGPT](https://slickgpt.vercel.app/) | [On Github](https:/
 ### GPT提示员人工费 | GPT prompt personnel cost
 略
 
-> 备注：算这个钱的话不如找人工翻译员了，一小时几百块地烧。
+> 备注：算这个钱的话不如找人工翻译员了。码农搞这个性价比真的太低了。
