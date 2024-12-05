@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="QEMqmF5533OoVc3tBdMl-Bt8Is7WrCb4Osrryq3DHoI" />
+
 # GenAI-lyrics-translation
 Translate Lyrics with the power of GenAI.
 
